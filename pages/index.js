@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>10 Things That Require Zero Talent
+        <p>10 Things That Require Zero Talent</p>
 
 <ul>
  <il>1. Being On Time</il>
@@ -23,7 +23,7 @@ export default function Home() {
  <il>9. Being Prepared</il>
  <il>10. Having A Strong Work Ethic</il>
     </ul>
-    </p>
+    
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
